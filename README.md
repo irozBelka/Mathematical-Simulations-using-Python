@@ -41,6 +41,7 @@ The **bar chart** is used to compare categories of data by representing each cat
 ## Analysis
 ### Multivariable Function
 ![Line Plot](/Analysis/Images/Multivariable_Function.png)
+
 This **Multivariable Function** provides a visual representation of the function f(x,y) = x^2 + y^2.
 
 ## Conclusion
