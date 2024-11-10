@@ -29,7 +29,7 @@ The **histogram** provides a visual representation of the frequency distribution
 The **line plot** visualizes the relationship between two variables over a continuous range. It's useful for showing trends over time or other continuous measurements.
 
 ### Multiplot
-![Multiplot](/Matplotlib/Images/Multiplot.png)
+![Multiplot](/Matplotlib/Images/Multiplots.png)
 
 This **multiplot** combines multiple plots in a single figure to compare different visualizations side-by-side, making it easier to compare distributions or relationships in data.
 
@@ -37,6 +37,11 @@ This **multiplot** combines multiple plots in a single figure to compare differe
 ![Bar Chart](/Matplotlib/Images/Bar_Chart.png)
 
 The **bar chart** is used to compare categories of data by representing each category with a bar. It's helpful for showing comparisons between different groups or values.
+
+## Analysis
+### Multivariable Function
+![Line Plot](/Analysis/Images/Multivariable_Function.png)
+This **Multivariable Function** provides a visual representation of the function f(x,y) = x^2 + y^2.
 
 ## Conclusion
 
